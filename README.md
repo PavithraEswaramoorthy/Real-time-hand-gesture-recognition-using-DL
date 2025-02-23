@@ -79,7 +79,7 @@ from IPython.display import display, Javascript
 - Performance may vary under low-light conditions.
 
 ## License
-MIT License. See [LICENSE](LICENSE) for details.
+GNU GENERAL PUBLIC LICENSE. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 - Dataset by [Aashay Sachdeva](https://www.kaggle.com/ash2703)
